@@ -276,7 +276,11 @@ input{
     border-radius: 8px;
     font-size: 18px;
     padding-left: 15px;
+    color: #ffffff;
     background-color: #151414;
+    background-color: transparent;
+    
+
 }
 button{
     
